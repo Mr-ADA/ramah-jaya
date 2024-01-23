@@ -1,0 +1,43 @@
+.about-us .title {
+  color: #b99976;
+  text-align: center;
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 2em;
+}
+
+.about-us.m-1 {
+  margin: 3rem auto;
+}
+.about-us .title {
+  color: #b99976;
+  text-align: center;
+}
+
+.description.p-1 {
+  margin-top: 3rem !important;
+  padding: 3rem !important;
+  display: flex;
+  flex: wrap;
+  width: 77rem;
+  height: 26rem;
+  background-color: #b99976;
+  border-radius: 3rem;
+}
+
+.description-wrapper .description-title {
+  font-weight: 600;
+  font-size: 2.2rem;
+}
+p.description-text,
+.description-wrapper .description-title {
+  color: #ffffff;
+}
+.description-list {
+  align-content: space-evenly;
+}
+
+.img-description {
+  width: 20em;
+  height: 20em;
+}

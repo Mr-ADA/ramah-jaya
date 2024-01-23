@@ -1,0 +1,14 @@
+.card-wrapper {
+  margin: auto;
+  width: 95%;
+  display: flex;
+  flex: wrap;
+}
+
+.services .service-title {
+  color: #b99976;
+  text-align: center;
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 2em;
+}

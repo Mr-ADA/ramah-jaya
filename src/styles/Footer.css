@@ -1,0 +1,34 @@
+.footer {
+  margin-top: 4rem;
+  background-color: var(--grey);
+  padding-top: 3em;
+  padding-bottom: 4em;
+  line-height: 2em;
+}
+
+.footer-nav {
+  display: inline-block;
+}
+
+.nav-item.p-2 {
+  margin: 0.6rem !important;
+  line-height: 5rem;
+}
+div.row:nth-child(2) span:last-of-type {
+  color: var(--grey);
+}
+
+.subtitle {
+  font-size: 1em;
+}
+
+.footer span {
+  font-size: 0.9em;
+}
+
+img {
+  object-fit: contain;
+  margin-right: 1.5em;
+  width: 2em;
+  height: 2em;
+}
