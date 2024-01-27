@@ -7,6 +7,7 @@ import AboutUs from "../components/AboutUs.jsx";
 import Location from "../components/Location.jsx";
 import Services from "../components/Services.jsx";
 import Reviews from "../components/Reviews.jsx";
+import Gallery from "../components/Gallery.jsx";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Jumbotron />
         <AboutUs />
         <Location />
+        <Gallery />
         <Services />
         <Reviews />
         <Footer />

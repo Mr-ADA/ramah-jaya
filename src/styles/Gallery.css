@@ -1,0 +1,11 @@
+.gallery.m-2 {
+  margin: 3rem !important;
+}
+
+.gallery-title {
+  color: #b99976;
+  text-align: center;
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 2em;
+}

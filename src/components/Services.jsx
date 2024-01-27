@@ -10,10 +10,10 @@ export default function Services() {
     <div className="services rounded p-3">
       <h1 className="service-title">Layanan Kami</h1>
       <div className="card-wrapper">
-        <CardServices image={Admin} text="Respons Cepat" />;
-        <CardServices image={Quality} text="Kualitas Top" />;
-        <CardServices image={Shipment} text="Pengiriman Barang" />;
-        <CardServices image={Wallet} text="Ramah di Kantong" />;
+        <CardServices image={Admin} text="Respons Cepat" />
+        <CardServices image={Quality} text="Kualitas Top" />
+        <CardServices image={Shipment} text="Pengiriman Barang" />
+        <CardServices image={Wallet} text="Ramah di Kantong" />
       </div>
     </div>
   );
